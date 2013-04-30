@@ -1,0 +1,19 @@
+{
+  "name": "jquery-select",
+  "version": "1.0.0",
+  "description": "Replace the default select background",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vast-eng/jquery-select.git"
+  },
+  "keywords": [
+    "jquery",
+    "select"
+  ],
+  "author": "Vast",
+  "license": "BSD"
+}
