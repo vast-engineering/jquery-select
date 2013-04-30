@@ -1,4 +1,4 @@
 if (!jQuery) {
-    console.log('jquery.popupoverlay - jQuery not defined.');
+    console.log('jquery.select - jQuery not defined.');
 }
 require('./jquery.select');
